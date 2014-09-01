@@ -396,7 +396,7 @@ ConsumeProduceDescription consumeproduce
 		}
 	]
 
-	StringTable _stringTable = "Dialog/StringTable.rsc:rawMaterial";
+	StringTable _stringTable = "UI/ApiaryStringTable.rsc";
 	int _workRequired = 10;
 	ToolType _toolType = Scythe;
 	float _workTime = 4.0;
